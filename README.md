@@ -1,3 +1,6 @@
+# Introduction
+This project demonstrates, username and password based login for React Native applications using Firebase.
+
 # Setup
 After cloning this repository. Create a .env file with below details to connect with firebase. 
 You will get these details after registering your firebase app and click on SigninWithEmailAndPassword. Enable it and click on Web icon.
